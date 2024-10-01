@@ -1,0 +1,22 @@
+{
+  "name": "ussdapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "body-parser": "^1.20.2",
+    "body-parser-xml": "^2.0.5",
+    "express": "^4.19.2",
+    "express-xml-bodyparser": "^0.3.0",
+    "soap": "^1.1.1",
+    "sqlite3": "^5.1.7",
+    "xml2js": "^0.6.2"
+  }
+}
